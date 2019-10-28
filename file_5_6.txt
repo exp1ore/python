@@ -1,0 +1,3 @@
+mathematics 50 50
+physics 40 30 50
+history 20
